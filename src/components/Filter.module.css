@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    justify-content: center; 
+}
+
+.boton{
+    font-size: 1.6rem;
+    background-color: #17202A;
+    border: none;
+    cursor: pointer;
+}
